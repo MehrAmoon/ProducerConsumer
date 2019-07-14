@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Producer Consumer</string>
+    <string name="producer">producer</string>
+    <string name="consumer">consumer</string>
+</resources>
